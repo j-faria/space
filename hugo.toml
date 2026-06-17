@@ -1,5 +1,12 @@
 baseURL = 'https://j-faria.github.io/space/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'João Faria'
 
 theme = 'celadon'
+
+
+[params]
+  description = 'Astronomer searching for exoplanets'
+  email = 'joao.faria@unige.ch'
+  location = 'Geneva, Switzerland'
+
