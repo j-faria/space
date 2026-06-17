@@ -1,0 +1,60 @@
+items:
+- date: '2026'
+  detail: CORALIE radial-velocity search for companions around evolved stars (CASCADES)
+    V. Three planetary companions and achievable precision
+  authors: Figueira et al.
+  badges:
+  - arXiv
+- date: '2026'
+  detail: Super-Earth masses and stellar abundances from NIRPS reveal tentative evidence
+    for water-rich formation around M dwarfs
+  authors: Weisserman et al.
+  badges:
+  - A&A
+- date: '2026'
+  detail: "The dispersed matter planet project sample \u2500 detection limits, occurrence\
+    \ rates, and new planets"
+  authors: Standing et al.
+  badges:
+  - MNRAS
+- date: '2026'
+  detail: 'TOI-3288 b and TOI-4666 b: Two gas giants transiting low-mass stars characterised
+    by NIRPS'
+  authors: Frensch et al.
+  badges:
+  - A&A
+- date: '2026'
+  detail: NIRPS tightens the mass estimate of GJ 3090 b and detects a planet near
+    the stellar rotation period
+  authors: Lamontagne et al.
+  badges:
+  - A&A
+- date: '2026'
+  detail: 'ASTRA: A Python Package for Cross-Instrument Stellar and Telluric Template
+    Construction'
+  authors: Silva et al.
+  badges:
+  - JOSS
+- date: '2025'
+  detail: Inferring planet occurrence rates from radial velocities
+  authors: <strong>Faria</strong>, Delisle, and Segransan
+  badges:
+  - A&A
+- date: '2025'
+  detail: 'Architecture of planetary systems with and without outer giant planets:
+    I. Inner planet detections around HD 23079, HD 196067, and HD 86226'
+  authors: Delisle et al.
+  badges:
+  - A&A
+- date: '2025'
+  detail: 'Stellar-activity analysis of the nearby M dwarf GJ 526: Multi-dimensional
+    Gaussian-process modelling of RV, FWHM, and S-index'
+  authors: Stefanov et al.
+  badges:
+  - A&A
+- date: '2025'
+  detail: 'Detection and characterisation of a 106-day transiting Jupiter: TOI-2449
+    b/NGTS-36 b'
+  authors: Ulmer-Moll et al.
+  badges:
+  - A&A

@@ -1,0 +1,48 @@
+projects:
+  - title: "kima"
+    summary: "Data analysis framework for exoplanet detection"
+    image: "https://www.kima.science/assets/logo_transparent.png"
+    date: "2025-05-01"
+    # coauthors:
+    links:
+      - label: "repository"
+        url: "https://github.com/kima-org/kima"
+      - label: "docs"
+        url: "https://www.kima.science"
+      - label: "paper"
+        url: "https://ui.adsabs.harvard.edu/abs/2018JOSS....3..487F/abstract"
+
+  - title: "iCCF"
+    summary: "Common line profile activity indicators measured from the cross-correlation function (CCF)."
+    image: "https://github.com/j-faria/iCCF/raw/main/iCCF/logo/logo.png?raw=true"
+    date: "2024-11-15"
+    links:
+      - label: "repository"
+        url: "https://github.com/j-faria/iCCF"
+      - label: "docs"
+        url: "https://j-faria.github.io/iCCF/"
+
+  - title: "arvi"
+    summary: "This package sits alongside DACE to help with the analysis of radial velocity datasets"
+    image: "https://raw.githubusercontent.com/j-faria/arvi/refs/heads/main/docs/logo/logo.png"
+    date: "2023-10-14"
+    links:
+      - label: "repository"
+        url: "https://github.com/j-faria/arvi"
+
+  - title: "authors"
+    summary: "Package to help you deal with the co-authors of a research paper"
+    image: "https://raw.githubusercontent.com/j-faria/authors/master/authors/crowd.png"
+    date: "2024-06-10"
+    links:
+      - label: "repository"
+        url: "https://github.com/j-faria/authors"
+
+  - title: "figo"
+    summary: "Get the `OBJECT` keyword from a *fits* file. But like... fast!"
+    image: "https://raw.githubusercontent.com/j-faria/figo/main/logo.png"
+    date: "2023-09-01"
+    links:
+      - label: "repository"
+        url: "https://github.com/j-faria/figo"
+
