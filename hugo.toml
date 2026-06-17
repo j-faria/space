@@ -10,3 +10,27 @@ theme = 'celadon'
   email = 'joao.faria@unige.ch'
   location = 'Geneva, Switzerland'
 
+[params.homepage]
+  sections = ["hero", "latest", "software", "writing"]
+
+  [params.homepage.hero]
+    enable = true
+    layout = "hero"
+    title = "About"
+
+  [params.homepage.latest]
+    enable = true
+    layout = "news"
+    title = "Latest Research"
+
+  [params.homepage.software]
+    enable = true
+    layout = "cards"
+    title = "Software"
+    limit = 6
+
+  [params.homepage.writing]
+    enable = false
+    layout = "grid"
+    title = "Writing"
+

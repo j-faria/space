@@ -1,0 +1,24 @@
+name: "João Faria"
+title: "Astronomer searching for exoplanets"
+summary: >
+  I'm an astrophysicist interested in finding planets beyond our Solar System.
+  My research focuses on ~~exoplanet detection~~ through precise ~~radial-velocity~~
+  measurements, while my broader interests include teaching, programming,
+  and minimalist designs.
+
+affiliation: "Geneva Observatory"
+profile_image: "images/joao.jpg"
+profile_layout: "classic" # Options: "modern" or "classic"
+profile_image_style: "rectangle" # Options: "circle" or "rectangle"
+
+# list:
+#   - "spectroscopic data analysis"
+#   - "statistical methods"
+
+links:
+  - label: "ORCID"
+    url: "https://orcid.org/0000-0002-6728-244X"
+  - label: "GitHub"
+    url: "https://github.com/j-faria"
+  - label: "NASA ADS"
+    url: "https://scixplorer.org/public-libraries/OtQQjddpThGyGAflYLVxng"
