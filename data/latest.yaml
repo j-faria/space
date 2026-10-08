@@ -1,60 +1,115 @@
 items:
-- date: '2026'
-  detail: CORALIE radial-velocity search for companions around evolved stars (CASCADES)
-    V. Three planetary companions and achievable precision
-  authors: Figueira et al.
+- authors: Chakraborty et al.
+  badges:
+  - A&A
+  date: '2026'
+  detail: Transit timing and starspot-induced transit depth variations in the ~17
+    Myr old HIP 67522 system
+- authors: Figueira, Fontanet, <strong>Faria</strong> et al.
+  badges:
+  - A&A
+  date: '2026'
+  detail: 'CORALIE radial-velocity search for companions around evolved stars (CASCADES):
+    V. Three planetary companions and achievable precision'
+- authors: Baycroft, <strong>Faria</strong>, and Delisle
   badges:
   - arXiv
-- date: '2026'
+  date: '2026'
+  detail: Bayesian analysis of Gaia epoch astrometry and radial velocities with kima
+- authors: Weisserman et al.
+  badges:
+  - A&A
+  date: '2026'
   detail: Super-Earth masses and stellar abundances from NIRPS reveal tentative evidence
     for water-rich formation around M dwarfs
-  authors: Weisserman et al.
-  badges:
-  - A&A
-- date: '2026'
-  detail: "The dispersed matter planet project sample \u2500 detection limits, occurrence\
-    \ rates, and new planets"
-  authors: Standing et al.
+- authors: Standing et al.
   badges:
   - MNRAS
-- date: '2026'
+  date: '2026'
+  detail: "The dispersed matter planet project sample \u2500 detection limits, occurrence\
+    \ rates, and new planets"
+- authors: Frensch et al.
+  badges:
+  - A&A
+  date: '2026'
   detail: 'TOI-3288 b and TOI-4666 b: Two gas giants transiting low-mass stars characterised
     by NIRPS'
-  authors: Frensch et al.
+- authors: Lamontagne et al.
   badges:
   - A&A
-- date: '2026'
+  date: '2026'
   detail: NIRPS tightens the mass estimate of GJ 3090 b and detects a planet near
     the stellar rotation period
-  authors: Lamontagne et al.
-  badges:
-  - A&A
-- date: '2026'
-  detail: 'ASTRA: A Python Package for Cross-Instrument Stellar and Telluric Template
-    Construction'
-  authors: Silva et al.
+- authors: Silva, <strong>Faria</strong> et al.
   badges:
   - JOSS
-- date: '2025'
+  date: '2026'
+  detail: 'ASTRA: A Python Package for Cross-Instrument Stellar and Telluric Template
+    Construction'
+- authors: "<strong>Faria</strong>, Delisle, and S\xE9gransan"
+  badges:
+  - A&A
+  date: '2025'
   detail: Inferring planet occurrence rates from radial velocities
-  authors: <strong>Faria</strong>, Delisle, and Segransan
+- authors: Stefanov et al.
   badges:
   - A&A
-- date: '2025'
-  detail: 'Architecture of planetary systems with and without outer giant planets:
-    I. Inner planet detections around HD 23079, HD 196067, and HD 86226'
-  authors: Delisle et al.
-  badges:
-  - A&A
-- date: '2025'
+  date: '2025'
   detail: 'Stellar-activity analysis of the nearby M dwarf GJ 526: Multi-dimensional
     Gaussian-process modelling of RV, FWHM, and S-index'
-  authors: Stefanov et al.
+- authors: Ulmer-Moll et al.
   badges:
   - A&A
-- date: '2025'
+  date: '2025'
   detail: 'Detection and characterisation of a 106-day transiting Jupiter: TOI-2449
     b/NGTS-36 b'
-  authors: Ulmer-Moll et al.
+- authors: Delisle, <strong>Faria</strong> et al.
   badges:
   - A&A
+  date: '2025'
+  detail: 'Architecture of planetary systems with and without outer giant planets:
+    I. Inner planet detections around HD 23079, HD 196067, and HD 86226'
+- authors: Cristo, <strong>Faria</strong> et al.
+  badges:
+  - A&A
+  date: '2025'
+  detail: 'SOAPv4: A new step toward modeling stellar signatures in exoplanet research'
+- authors: Parc et al.
+  badges:
+  - A&A
+  date: '2025'
+  detail: 'NIRPS and TESS reveal a peculiar system around the M dwarf TOI-756: A transiting
+    sub-Neptune and a cold eccentric giant'
+- authors: Bouchy et al.
+  badges:
+  - A&A
+  date: '2025'
+  detail: 'NIRPS joining HARPS at ESO 3.6 m: On-sky performance and science objectives'
+- authors: Frensch et al.
+  badges:
+  - A&A
+  date: '2025'
+  detail: Three hot Jupiters transiting K-dwarfs with significant heavy element masses
+- authors: Figueira, <strong>Faria</strong> et al.
+  badges:
+  - A&A
+  date: '2025'
+  detail: 'A comprehensive study on radial velocity signals using ESPRESSO: Pushing
+    precision to the 10 cm/s level'
+- authors: Baycroft et al.
+  badges:
+  - MNRAS
+  date: '2025'
+  detail: BEBOP VII. SOPHIE discovery of BEBOP-3b, a circumbinary giant planet on
+    an eccentric orbit
+- authors: Silva, Santos, <strong>Faria</strong> et al.
+  badges:
+  - A&A
+  date: '2025'
+  detail: A systematic bias in template-based radial velocity extraction algorithms
+- authors: "Su\xE1rez Mascare\xF1o et al."
+  badges:
+  - A&A
+  date: '2025'
+  detail: 'Diving into the planetary system of Proxima with NIRPS: Breaking the metre
+    per second barrier in the infrared'
