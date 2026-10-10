@@ -18,7 +18,12 @@
       {{ range $items }}
         {{ $authors := .authors | safeHTML }}
         {{ $detail := partial "utils/enrich-text.html" .detail }}
-        <article class="news-item">
+        {{ $highlighted := .highlight | default false }}
+        {{ $url := .url | default "" }}
+        {{ if $url }}
+        <a href="{{ $url | safeURL }}" class="news-item-link" target="_blank" rel="noopener">
+        {{ end }}
+        <article class="news-item{{ if $highlighted }} news-item--highlighted{{ end }}">
           <div class="news-date">{{ .date | safeHTML }}</div>
           <div class="news-detail">
             <p>{{ $detail | markdownify | safeHTML }}
@@ -33,6 +38,9 @@
             {{ end }}
           </div>
         </article>
+        {{ if $url }}
+        </a>
+        {{ end }}
       {{ end }}
     </div>
     {{ if gt (len $items) $limit }}
